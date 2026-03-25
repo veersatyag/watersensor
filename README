@@ -1,0 +1,34 @@
+# ESP32 Water Level Monitoring (Basic)
+
+A simple IoT project using ESP32 to monitor water levels and send data via MQTT.
+
+## 🔧 Features
+- Ultrasonic water level sensing
+- WiFi connectivity
+- MQTT data publishing
+- Easy setup
+
+## ⚡ Quick Start
+
+1. Update WiFi + MQTT in `config.h`
+2. Upload code to ESP32
+3. Open Serial Monitor
+
+## 📡 Output Example
+
+{
+  "level": 72.5
+}
+
+## 🧠 Use Cases
+- Water tanks
+- Agriculture monitoring
+- Smart irrigation
+
+## 🚀 Future Improvements
+- Dashboard
+- Alerts
+- Cloud integration
+
+## 💼 Commercial Version
+This is a basic version. For production-ready solutions (dashboard, alerts, multi-device support), contact us.
